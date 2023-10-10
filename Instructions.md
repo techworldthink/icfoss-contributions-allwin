@@ -7,3 +7,6 @@
 * Functional Testing Tools
 * Functional Testing Tools (for Django based apps)
 
+You can refer to this website for a write-up about the above things from the LoRaLink application perspective.
+
+https://www.geeksforgeeks.org/software-testing-functional-testing/
