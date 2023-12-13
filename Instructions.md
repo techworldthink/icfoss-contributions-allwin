@@ -25,5 +25,3 @@ https://www.geeksforgeeks.org/software-testing-functional-testing/
 * Write login user information to a database using Go. There is no need to implement login functionality. (Just POST login data, fetch it on the server side, and write it to a history table.)
 * Find the IP of a client from the incoming request for login in the Go web application. Store the login credentials along with the IP in the table.
 
-
-# TASK 3 - Documentation on URL/URI, HTTP Endpoints
