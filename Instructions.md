@@ -1,8 +1,6 @@
 # Task 1 - (Software Testing – Functional Testing)
 *** 
-
 ### Start Date:    26/09/2023 , End Date:  17/09/2023
-
 * What is Functional Testing?
 * What to Test in Functional Testing?
 * Functional Testing Process
@@ -13,9 +11,7 @@ https://www.geeksforgeeks.org/software-testing-functional-testing/
 
 # Task 2 - Go programming
 ***
-
 ### Start Date:    19/10/2023 , End Date: 28/10/2023
-
 * Create a web application using Go.
 * Install Postgresql and Pgadmin4 locally and learn about creating databases and tables.
 * Create a login page using HTML and CSS.
